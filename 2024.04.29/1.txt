@@ -1,0 +1,4 @@
+1;Factory;111;System
+2;Shop;222;Cable
+3;Hospital;333;Device
+4;Street;444;Light
